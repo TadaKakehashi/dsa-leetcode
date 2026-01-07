@@ -1,6 +1,5 @@
 package Strings;
 import java.util.Stack;
-
 public class question1 {
     
     public static boolean isValid(String s){
